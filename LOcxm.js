@@ -29,3 +29,4 @@ public class MaxMinExerciseInJava {
   System.out.printf("Maximum value of %d and %d using Math.min() is %d %n", x, y, min)
  }
 }
+int max = Math.max(a, c,b);
